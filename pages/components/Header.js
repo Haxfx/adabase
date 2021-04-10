@@ -8,8 +8,8 @@ const Header = () => {
     return (
         <div className="flex shadow-sm bg-gray-50  p-4 justify-between  ">
             <div className="flex space-x-3  ">
-                <p className="text-gray-400">Adress </p>
-                <p>0xc14D1bdD7A28b12fa3e88FE2bE9e193Bdfdlk8bb940A6</p>
+                <p className="text-gray-400">Adress</p>
+                <p>581f4f41de0ec7dec407b7f73fef26529b0eeac65982cba041c00984</p>
                 <CropLandscapeIcon className="text-gray-300" />
                 <DashboardIcon className="text-gray-300" />
 
